@@ -1,0 +1,1 @@
+{"summa":"88","cash":true,"plastic":false,"subject":"Biologiya","teacher":"Musayev Husan","student":"sardor","data":"2020/02/22"}

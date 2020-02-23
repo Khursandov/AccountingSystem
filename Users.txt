@@ -1,0 +1,3 @@
+{"subject":"Kimyo","teacher":"Xursandov Sardor","student":"sarvar"}
+{"subject":"Kimyo","teacher":"Xursandov Sardor","student":"2222"}
+{"subject":"Matematika","teacher":"Musayev Husan","student":"sardor"}
